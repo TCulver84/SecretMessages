@@ -103,4 +103,4 @@ This project was inspired by the teachers at teamtreehouse.com and was developed
 
 License
 
-A short snippet describing the license (MIT, Apache, etc.)
+Opensource for your enjoyment!
